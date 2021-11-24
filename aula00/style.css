@@ -1,0 +1,47 @@
+body{
+    background-color: rgba(218, 218, 218, 0.767);
+    font-family: "M PLUS 1", Helvetica, sans-serif;
+    font-size: 60;
+    color: black;
+    margin: 0;
+}
+.container{
+    width: 980px;
+    margin: 0 auto;
+    box-shadow: 40px;
+}
+
+    
+
+
+
+    
+  h1{
+    margin-bottom: 0;
+    font-style: oblique;
+    letter-spacing: -2px;
+}
+h2{
+    margin-top: 0;
+    font-style: italic;
+    color:rgb(95 91 91);
+    font-weight: 100;
+    letter-spacing: -2px;
+}
+.profile{
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.social-icons{
+    width: 30px;
+}
+
+.footer{
+    font-weight: 10px;
+    background-color: rgba(0, 0, 0, 0.767);
+    margin-top: 30px;
+    color: rgb(185, 183, 179);
+    text-align: center;
+    padding: 10px 0;
+}
